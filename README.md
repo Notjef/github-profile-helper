@@ -7,10 +7,11 @@ Mal sabem que o *seu perfil pode ser um cartão de visitas para recrutadores*.
 Veja a diferença entre um perfil sem graca para um perfil profissonal ajustado com badges, ícones e uma boa estrutura:
 
 ### 🔴 Antes
-<img src="assets/perfil-before.jpg" width="600">
+<img src="https://i.imgur.com/xNN4d88.png" width="600">
+
 
 ### 🟢 Depois
-<img src="assets/perfil-after.jpg" width="600">
+<img src="https://imgur.com/8M4ufIn.png" width="600">
 
 > ✨ Um perfil bem organizado mostra profissionalismo, dedicação e facilita para os recrutadores verem suas skills.  
 
