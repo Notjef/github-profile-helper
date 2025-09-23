@@ -1,51 +1,49 @@
+🚀 GitHub Profile Helper
 
-# 🚀 GitHub Profile Helper
+Many developers leave their GitHub profiles too plain, missing the chance to showcase their skills and personality.
+Little do they know that a great profile can serve as a business card for recruiters.
 
-Muitos desenvolvedores deixam o perfil do GitHub simples demais, sem destacar suas habilidades e a sua personalidade.  
-Mal sabem que o *seu perfil pode ser um cartão de visitas para recrutadores*.  
+Check out the difference between a boring profile and a polished, professional one using badges, icons, and a solid structure:
 
-Veja a diferença entre um perfil sem graca para um perfil profissonal ajustado com badges, ícones e uma boa estrutura:
-
-### 🔴 Antes
+### 🔴 Before
 <img src="https://i.imgur.com/xNN4d88.png" width="600">
 
 
-### 🟢 Depois
+### 🟢 After
 <img src="https://imgur.com/8M4ufIn.png" width="600">
 
-> ✨ Um perfil bem organizado mostra profissionalismo, dedicação e facilita para os recrutadores verem suas skills.  
+> ✨ A well-organized profile shows professionalism, dedication, and makes it easier for recruiters to see your skills.
 
 ---
 
-## 📂 O que você vai encontrar neste repositório
+📂 What you’ll find in this repository
 
-✅ *Mini tutorial*  
-Aprenda passo a passo como criar um repositório com o seu *nome de usuário* para começar a editar o README do perfil.  
+✅ Mini Tutorial
+Step-by-step guide to create a repository with your username and start editing your profile’s README.
 
-✅ *Badges prontos*  
-Cole direto no seu perfil badges de certificações e conquistas (AWS, GitHub, etc).  
+✅ Ready-to-use Badges
+Paste directly into your profile badges for certifications and achievements (AWS, GitHub, etc.).
 
-✅ *Ícones de redes sociais*  
-Conecte seu LinkedIn, Instagram, Twitter e outras redes usando ícones modernos.  
+✅ Social Media Icons
+Connect your LinkedIn, Instagram, Twitter, and other platforms using clean and modern icons.
 
-✅ *Ferramentas de estatísticas do GitHub*  
-Exemplos prontos de gráficos e status (commits, stars, linguagens, contribuições) que você pode copiar e colar no seu README.  
+✅ GitHub Stats Tools
+Pre-made examples of charts and status widgets (commits, stars, languages, contributions) ready to copy and paste into your README.
 
-✅ *Exemplos prontos de perfis*  
-Modelos de READMEs reais para você se inspirar e adaptar ao seu estilo
----
+✅ Profile Examples
+Real README profile templates to inspire you and help you customize your own.
 
-## 🎯 Objetivo
-Este repositório é o seu *kit de personalização* para transformar o seu perfil GitHub em um *currículo interativo* que impressiona.
+🎯 Goal
+This repository is your personalization kit to turn your GitHub profile into an interactive résumé that stands out.
 
-## ⭐ Apoie este projeto
+⭐ Support this project
 
-Se este repositório te ajudou de alguma forma:  
+If this repo helped you in any way:
 
-👉 *Deixe uma estrela ⭐ aqui no repositório*  
-👉 *Me siga no GitHub* para mais conteúdos como este  
+👉 Leave a ⭐ star here on GitHub
+👉 Follow me for more content like this
 
-Muito obrigado pelo apoio! 💙
+Thanks so much for the support! 💙
 
 ---
 
