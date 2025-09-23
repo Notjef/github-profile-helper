@@ -1,0 +1,12 @@
+🏅 How to Add Your Credly Badge
+
+You can easily showcase your certification badges from Credly on your GitHub profile.
+	1.	Go to your badge on Credly.
+	2.	Click on Share and copy the public URL of your badge.
+	3.	Replace the link and image in the code below with your own badge URL and image:
+
+  <a href="https://www.credly.com/badges/22336acd-57f2-4d1e-a3a7-af96f007ce8d/linked_in?t=sqdowx">
+    <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/> 
+</a>
+
+👉 Just replace the link and image with yours. That’s it!
