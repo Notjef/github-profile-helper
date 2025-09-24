@@ -1,6 +1,4 @@
-<h2 align="center">Stats</h2>
-
-###
+📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notjef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -10,4 +8,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notjef&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+###📝 Explanation of the graphs
+	•	Stats graph (first) → Shows general statistics: commits, private contributions, number of repositories, etc.
+	•	Streak graph (second) → Displays the streak of consecutive days you made contributions on GitHub.
+	•	Trophy graph (third) → Shows “trophies” based on your GitHub activity level (commits, issues, pull requests, etc.).
+	•	Languages graph (fourth) → Displays the most used programming languages across your repositories.
+	•	Activity graph (last) → Graph with your contribution activity over time, highlighting peaks of activity.
+
+⸻
+
+👉 Just save this as github-stats.md (or inside your estatisticas do github/ folder) and it’s ready to use.
