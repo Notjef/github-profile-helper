@@ -1,38 +1,33 @@
-# 📝 Como criar o repositório do seu perfil no GitHub
+🚀 Step-by-step
 
-Personalizar seu perfil no GitHub é simples, basta criar um repositório especial que leva o *mesmo nome do seu usuário*.  
-Esse repositório vai gerar automaticamente o README que aparece no topo do seu perfil.
+Go to GitHub
+Head to github.com
+ and log in.
 
----
+Create a new repository
+Click the ➕ icon in the top-right corner and select "New repository".
 
-## 🚀 Passo a passo
+Name the repository
+The name must be exactly the same as your GitHub username.
+Example: If your username is jefersonrodrigo, the repository should be named:
 
-1. *Acesse o GitHub*  
-   Vá até [github.com](https://github.com) e faça login.
+jefersonrodrigo
 
-2. *Crie um novo repositório*  
-   Clique em ➕ no canto superior direito e escolha *"New repository"*.
+Set the repository to public
+This is important so everyone can see your personalized profile.
 
-3. *Coloque o nome do repositório*  
-   O nome deve ser *exatamente igual ao seu nome de usuário no GitHub*.  
-   Exemplo: se seu usuário for jefersonrodrigo, o repositório deve se chamar:
-4. *Deixe o repositório público*  
-Isso é importante para que todos possam ver o seu perfil personalizado.
+Check the “Add a README file” option
+This will initialize the repo with a README.md file.
 
-5. *Marque a opção “Add a README file”*  
-Assim você já começa com um arquivo README.md.
+Click "Create repository"
+Done! Your profile is now linked to this special repository.
 
-6. *Clique em "Create repository"*  
-Pronto! Agora o seu perfil já está conectado a esse repositório.
+✨ Extra tips
 
----
+Edit the README.md file to start customizing your profile.
 
-## ✨ Dicas extras
+Use badges, icons, and examples from this repo to make your profile more professional.
 
-- Edite o arquivo README.md para começar a personalizar.  
-- Use *badges, ícones e exemplos* da pasta deste repositório para deixar seu perfil mais profissional.  
-- Sempre que atualizar o README, seu perfil do GitHub também será atualizado automaticamente.  
+Every time you update the README, your GitHub profile updates automatically too.
 
----
-
-🎯 Agora você já pode transformar seu GitHub em um *currículo interativo* e impressionar recrutadores!
+🎯 Now you're ready to turn your GitHub into an interactive résumé and impress recruiters!
