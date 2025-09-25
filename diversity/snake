@@ -1,0 +1,19 @@
+# Snake Animation on GitHub Profile
+
+This animation shows the "snake" eating your contributions on the GitHub contributions grid. 🐍  
+
+---
+
+## How to use
+
+1. Copy the following code:
+
+```html
+<img src="https://raw.githubusercontent.com/notjef/notjef/output/snake.svg" alt="Snake animation" />
+
+2.	Replace notjef/notjef with your own GitHub username twice.
+	•	The first notjef is the username.
+	•	The second notjef is also the username, because the snake workflow generates the file in the same repo.
+
+  👉 Example if your username is octocat:
+<img src="https://raw.githubusercontent.com/octocat/octocat/output/snake.svg" alt="Snake animation" />
