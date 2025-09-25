@@ -1,0 +1,32 @@
+# Tutorial: How to Use GIFs in Your README with Imgur
+
+GIFs make your profile and repositories more dynamic and engaging.  
+Here’s a simple step-by-step guide to add a GIF using *Imgur*:
+
+---
+
+## 1. Host your GIF
+- Go to [Imgur](https://imgur.com)  
+- Upload your GIF  
+- Right-click on the GIF and copy the *direct link* (it should end with .gif).
+
+Example of a direct link: https://imgur.com/66oMD7P.gif
+
+---
+
+## 2. Add it to your README
+Use the <img> tag inside your README.md file.  
+Example:
+
+```html
+<img align="right" alt="My gif" height="600px" src="https://imgur.com/66oMD7P.gif" />
+
+3. Customize
+	•	align=“right” → sets the position of the GIF (right, left, or remove it).
+	•	height=“600px” → sets the size (adjust as needed).
+	•	alt=“My gif” → alternative text (shows if the GIF doesn’t load).
+	•	src=”…” → paste your direct GIF link here.
+
+⸻
+
+✨ Tip: just replace the direct link in the src attribute with your own GIF.
