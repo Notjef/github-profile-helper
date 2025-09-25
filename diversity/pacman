@@ -1,0 +1,28 @@
+# Pac-Man Contribution Graph
+
+This animation shows Pac-Man eating your contributions on the GitHub contributions grid. 👾  
+
+---
+
+## How to use
+
+1. Copy the following code:
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notjef/notjef/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notjef/notjef/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notjef/notjef/output/pacman-contribution-graph.svg">
+</picture>
+
+2.	Replace notjef/notjef with your own GitHub username twice.
+	•	The first notjef is the username.
+	•	The second notjef is also the username, because the Pac-Man workflow generates the file in the same repo.
+
+👉 Example if your username is octocat:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/octocat/octocat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/octocat/octocat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/octocat/octocat/output/pacman-contribution-graph.svg">
+</picture>
